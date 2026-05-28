@@ -1,0 +1,6 @@
+{
+  "name": "Smart LAN Share",
+  "description": "High-speed local network file sharing and communication portal between devices on the same Wi-Fi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

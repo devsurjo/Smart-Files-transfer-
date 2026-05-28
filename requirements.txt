@@ -1,0 +1,9 @@
+# Smart LAN Share Toolchain Requirements
+
+- java-version: 17
+- gradle-version: 8.0+
+- kotlin-gradle-plugin: 2.x
+- compose-version: BOM 2024.04.01
+- ktor-server-version: 3.0.3
+- zxing-barcode-version: 3.5.3
+- local-lan-port: 8000
