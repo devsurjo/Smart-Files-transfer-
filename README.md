@@ -5,6 +5,11 @@ Smart LAN Share is a lightning-fast, secure, offline-first cross-platform peer f
 It automatically starts a local web server (Ktor) and shares a portal URL with any machine connected to the same Wi-Fi network. Browser clients can uploads/downloads files, share clipboard snippets, and chat in real-time.
 
 ---
+<img width="720" height="1612" alt="1416" src="https://github.com/user-attachments/assets/28def50e-2e05-456f-b3cf-e08a8231403c" />
+<img width="720" height="1612" alt="1415" src="https://github.com/user-attachments/assets/a48de285-5059-49d8-8e56-84eb5b2ae46d" />
+<img width="720" height="1612" alt="1414" src="https://github.com/user-attachments/assets/f94e8b24-a042-43c3-9376-d010cc13a418" />
+<img width="720" height="1612" alt="1413" src="https://github.com/user-attachments/assets/6aa327f9-b609-4e83-9602-d8996af58255" />
+<img width="720" height="1612" alt="1412" src="https://github.com/user-attachments/assets/83230397-2191-4a87-b3b7-339dd26aa963" />
 
 ## 🎨 Design Theme: Cosmic Cyber Neon
 - **Frosted Glassmorphic Cards**: Features rich translucent blocks bordered by subtle neon outlines.
